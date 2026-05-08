@@ -1,0 +1,4 @@
+[2026-05-08 00:31:52] | TIPO: DisponibilidadError | CONTEXTO: Reserva.confirmar_reserva | DETALLE: Fallo de disponibilidad: El servicio 'Sala De Juntas Vip' no se encuentra disponible.
+[2026-05-08 00:31:52] | TIPO: ReservaError | CONTEXTO: Reserva.cancelar_reserva | DETALLE: La reserva ya se encuentra en estado 'Cancelada'.
+[2026-05-08 00:32:02] | TIPO: DisponibilidadError | CONTEXTO: Reserva.confirmar_reserva | DETALLE: Fallo de disponibilidad: El servicio 'Sala De Juntas Vip' no se encuentra disponible.
+[2026-05-08 00:32:02] | TIPO: ReservaError | CONTEXTO: Reserva.cancelar_reserva | DETALLE: La reserva ya se encuentra en estado 'Cancelada'.
